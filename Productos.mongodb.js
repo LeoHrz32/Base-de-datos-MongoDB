@@ -1,5 +1,5 @@
 use('TiendasD1')
-db.dsadwdsd.insertMany([
+db.Productos.insertMany([
     {
         "categoria": "maquillaje",
         "productos": [
